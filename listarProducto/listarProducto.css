@@ -1,0 +1,29 @@
+body{
+    background-image: url(img/verduras.jpg);
+    width: 1000px;
+    height: 100px;
+    background-size: cover;
+    
+    
+}
+
+.SeccionTabla {
+ 
+  background-color: rgba(53, 61, 54, 0.285);
+}
+
+table td,table th {
+  
+  border-collapse: collapse;
+
+}
+
+tbody td {
+  font-weight: 500;
+  color: #fbfbfb;
+}
+ .Contenedor {
+    position: relative;
+    height: 50%;
+    width: 50%;
+ }
